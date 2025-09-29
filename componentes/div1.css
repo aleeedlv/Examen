@@ -1,0 +1,5 @@
+.div1 {
+  grid-column: 1 / 3;
+  grid-row: 1 / 2;
+  border-radius: 16px;
+}
